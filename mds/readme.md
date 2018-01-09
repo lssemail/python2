@@ -1,0 +1,5 @@
+* urllib2.urlopen(url, data, timeout)
+* urllib2.Request()
+* urllib2.urlopen(request)
+* response.read()
+* urllib.urlencode(params)
